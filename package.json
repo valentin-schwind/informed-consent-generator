@@ -1,5 +1,5 @@
 ﻿{
-  "name": "consent-form-generator",
+  "name": "informed-consent-generator",
   "private": true,
   "scripts": {
     "test": "node scripts/test_runtime.js"

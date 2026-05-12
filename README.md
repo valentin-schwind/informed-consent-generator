@@ -57,7 +57,7 @@ npm test
 
 The current source code is available on GitHub:
 
-- [https://github.com/valentin-schwind/consent-form-generator](https://github.com/valentin-schwind/consent-form-generator)
+- [https://github.com/valentin-schwind/informed-consent-generator](https://github.com/valentin-schwind/informed-consent-generator)
 
 ## Citation statement
 

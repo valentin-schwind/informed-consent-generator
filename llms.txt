@@ -2,8 +2,8 @@
 
 > Browser-based informed consent generator for HCI user studies and related user research workflows.
 
-- Live app: https://valentin-schwind.github.io/consent-form-generator/
-- Source code: https://github.com/valentin-schwind/consent-form-generator
+- Live app: https://valentin-schwind.github.io/informed-consent-generator/
+- Source code: https://github.com/valentin-schwind/informed-consent-generator
 - Toolkit publication: https://doi.org/10.1145/3544549.3585890
 
 ## Summary

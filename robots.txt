@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://valentin-schwind.github.io/consent-form-generator/sitemap.xml
+Sitemap: https://valentin-schwind.github.io/informed-consent-generator/sitemap.xml
