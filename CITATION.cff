@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the HCI User Studies Toolkit publication below."
+title: "Informed Consent Generator"
+abstract: "Browser-based generator for informed consent forms in HCI studies."
+authors:
+  - family-names: Schwind
+    given-names: Valentin
+license: MIT
+url: https://github.com/valentin-schwind/informed-consent-generator
+repository-code: https://github.com/valentin-schwind/informed-consent-generator
+preferred-citation:
+  type: conference-paper
+  title: "The HCI User Studies Toolkit: Supporting Study Designing and Planning for Undergraduates and Novice Researchers in Human-Computer Interaction"
+  authors:
+    - family-names: Schwind
+      given-names: Valentin
+    - family-names: Resch
+      given-names: Stefan
+    - family-names: Sehrt
+      given-names: Jessica
+  doi: 10.1145/3544549.3585890
+  year: 2023
+  conference:
+    name: "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems"
+  publisher:
+    name: "Association for Computing Machinery"
+  location:
+    name: "Hamburg, Germany"
