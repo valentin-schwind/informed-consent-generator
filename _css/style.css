@@ -457,10 +457,10 @@ h3 {
 .citation-box {
     margin-top: 12px;
     padding: 14px 16px;
-    border: 1px solid #e5e7eb;
-    border-left: 4px solid #0f766e;
+    border: 1px solid #e4d5b0;
+    border-left: 4px solid #b8860b;
     border-radius: 10px;
-    background: #f8fafc;
+    background: #f5ecd3;
 }
 
 .citation-box strong {
