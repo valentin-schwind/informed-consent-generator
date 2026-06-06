@@ -453,6 +453,32 @@ h3 {
     white-space: normal;
 }
 
+/* Citation box for the toolkit publication reference */
+.citation-box {
+    margin-top: 12px;
+    padding: 14px 16px;
+    border: 1px solid #e5e7eb;
+    border-left: 4px solid #0f766e;
+    border-radius: 10px;
+    background: #f8fafc;
+}
+
+.citation-box strong {
+    display: inline-block;
+    margin-bottom: 6px;
+}
+
+.citation-box code {
+    display: inline;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    color: #374151;
+    white-space: normal;
+    font-family: inherit;
+    font-size: 0.9rem;
+}
+
 .was-validated .form-control:invalid,
 .was-validated .form-control.is-invalid-manual,
 .was-validated .form-select:invalid,
