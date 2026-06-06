@@ -479,6 +479,26 @@ h3 {
     font-size: 0.9rem;
 }
 
+.citation-actions {
+    margin-top: 12px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.citation-copy-btn.btn {
+    font-size: 0.85rem;
+    color: #8a6508;
+    background: transparent;
+    border: 1px solid #b8860b;
+}
+
+.citation-copy-btn.btn:hover,
+.citation-copy-btn.btn:focus {
+    background: #b8860b;
+    color: #fff;
+}
+
 .was-validated .form-control:invalid,
 .was-validated .form-control.is-invalid-manual,
 .was-validated .form-select:invalid,
