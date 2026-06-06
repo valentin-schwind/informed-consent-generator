@@ -453,30 +453,37 @@ h3 {
     white-space: normal;
 }
 
-/* Citation box for the toolkit publication reference */
+/* Citation box (design ported from the Statistical Decision Tree) */
+.source-box,
 .citation-box {
-    margin-top: 12px;
-    padding: 14px 16px;
+    padding: 0.25rem 0;
+}
+
+.citation-resource {
+    align-items: flex-start;
+}
+
+.source-box p,
+.citation-box p {
+    margin-bottom: 0.85rem;
+}
+
+.citation-heading-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+    margin-right: 0.45rem;
+}
+
+.citation-copy {
+    display: block;
+    padding: 0.95rem 1rem;
+    border-radius: 14px;
+    background: #f5ecd3;
     border: 1px solid #e4d5b0;
     border-left: 4px solid #b8860b;
-    border-radius: 10px;
-    background: #f5ecd3;
-}
-
-.citation-box strong {
-    display: inline-block;
-    margin-bottom: 6px;
-}
-
-.citation-box code {
-    display: inline;
-    background: transparent;
-    border: 0;
-    padding: 0;
-    color: #374151;
     white-space: normal;
-    font-family: inherit;
-    font-size: 0.9rem;
+    color: #374151;
 }
 
 .citation-actions {
